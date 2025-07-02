@@ -19,7 +19,7 @@ function App() {
       </div>
       <div className=' bg-primary'
         style={{
-          backgroundImage: "url('/public/img/bg-boost-desktop.svg')",
+          backgroundImage: "url('/img/bg-boost-desktop.svg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
