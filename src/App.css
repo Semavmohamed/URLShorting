@@ -1,0 +1,14 @@
+/*Advance.jsx*/
+.cards{
+    @apply  block md:flex justify-between relative text-center md:text-left gap-6;
+}
+.card{
+    @apply bg-white rounded relative mb-9 md:mb-0
+}
+.cardIcon{
+    @apply  bg-primary rounded-full w-fit p-4 absolute -top-8 left-[35%] md:left-[12%];
+}
+/*footer*/
+.ulli{
+   @apply mb-2 md:mb-3 text-p3 hover:text-second;
+}
