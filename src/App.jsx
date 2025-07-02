@@ -1,6 +1,6 @@
 import Navbar from './component/Navbar'
 import './App.css'
-import imgback from './assets/bg-boost-desktop.svg'
+
 import Define from './sections/Define'
 import Advance from './sections/Advance';
 import Form from './sections/Form';
@@ -19,7 +19,7 @@ function App() {
       </div>
       <div className=' bg-primary'
         style={{
-          backgroundImage: `url(${imgback})`,
+          backgroundImage: url('/public/img/bg-boost-desktop.svg'),
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
