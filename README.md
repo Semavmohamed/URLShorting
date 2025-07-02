@@ -40,18 +40,18 @@ This is a solution to the [Shortly URL shortening API challenge](https://www.fro
 ## 📸 Screenshots
 
 > 🖥️ Desktop  
-![Desktop Screenshot](../URLShorting/Desktop1.png)
-![Desktop Screenshot](../URLShorting/Desktop2.png)
-![Desktop Screenshot](../URLShorting/Desktop3.png)
-![Desktop Screenshot](../URLShorting/Desktop4.png)
+![Desktop Screenshot](/Desktop1.png)
+![Desktop Screenshot](/Desktop2.png)
+![Desktop Screenshot](/Desktop3.png)
+![Desktop Screenshot](/Desktop4.png)
 
 
 > 📱 Mobile  
-![Mobile Screenshot](../URLShorting/Mobile1.png)
-![Mobile Screenshot](../URLShorting/Mobile2.png)
-![Mobile Screenshot](../URLShorting/Mobile3.png)
-![Mobile Screenshot](../URLShorting/Mobile4.png)
-![Mobile Screenshot](../URLShorting/Mobile5.png)
+![Mobile Screenshot](/Mobile1.png)
+![Mobile Screenshot](/Mobile2.png)
+![Mobile Screenshot](/Mobile3.png)
+![Mobile Screenshot](/Mobile4.png)
+![Mobile Screenshot](/Mobile5.png)
 
 ---
 
